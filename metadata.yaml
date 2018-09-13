@@ -1,0 +1,22 @@
+_repo: Poems-Pastoral-and-Psalm_51367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Copeland, Benjamin
+    gutenberg_agent_id: '46382'
+    url: http://www.gutenberg.org/2009/agents/46382
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: 'Poems: Pastoral and Psalm'
+url: http://www.gutenberg.org/ebooks/51367
